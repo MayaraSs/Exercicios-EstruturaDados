@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1434570570 source:c:\users\may s.stein\desktop\arvores\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1434571887 source:c:\users\may s.stein\desktop\arvores\remocao.c
+	<stdio.h>
+	<stdlib.h>
+
